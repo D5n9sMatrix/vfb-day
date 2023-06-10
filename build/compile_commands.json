@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/vfb-net/vfb-day/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/vfb-day.dir/vfb-day.cpp.o -c /home/denis/vfb-net/vfb-day/vfb-day.cpp",
+  "file": "/home/denis/vfb-net/vfb-day/vfb-day.cpp"
+}
+]

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libvfb-day.a CMakeFiles/vfb-day.dir/vfb-day.cpp.o
+/usr/bin/ranlib libvfb-day.a
